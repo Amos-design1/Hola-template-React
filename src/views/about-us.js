@@ -87,9 +87,13 @@ const AboutUs = (props) => {
               access to the support they need to lead a mentally healthy life.
             </span>
           </div>
-          <div className="about-us-gallery"></div>
+          <img
+            src="/green-and-yellow-pill-covered-in-two-leaves-in-the-human-mind-2100h.png"
+            alt="image"
+            className="about-us-image2"
+          />
           <div className="about-us-recruit">
-            <h2 className="about-us-text1">our services</h2>
+            <h2 className="about-us-text1">Our services</h2>
             <div className="about-us-sections">
               <div className="about-us-section1">
                 <span className="about-us-text2">
@@ -109,15 +113,12 @@ const AboutUs = (props) => {
               </div>
               <div className="about-us-section3">
                 <span className="about-us-text5">
-                  We offer the latest updates on events held by oir organisation
+                  We offer the latest updates on events held by our organization
                   in our posts
                 </span>
               </div>
               <div className="about-us-section4"></div>
             </div>
-            <button className="about-us-button button">
-              <span className="about-us-text6">be part of the community</span>
-            </button>
           </div>
         </div>
       </div>

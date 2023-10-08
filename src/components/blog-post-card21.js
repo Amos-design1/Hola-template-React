@@ -44,7 +44,7 @@ BlogPostCard21.defaultProps = {
   profile_alt: 'profile',
   profile_src:
     'https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fHBvcnRyYWl0fGVufDB8fHx8MTYyNjM3ODk3Mg&ixlib=rb-1.2.1&h=1200',
-  author: 'Jane Doe',
+  author: 'Amy Lee',
   pastedImage_src1: '/external/pastedimage-nyeu-400h.png',
 }
 
